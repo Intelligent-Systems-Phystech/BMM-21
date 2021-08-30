@@ -8,5 +8,7 @@
 TODO 
 
 # Анкеты
+**Дедлайн по каждой анкете:** вторник, 23.59.
+
 ## Distributions, expectation, likelihood
 TODO

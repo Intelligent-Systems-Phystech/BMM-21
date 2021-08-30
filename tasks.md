@@ -4,11 +4,11 @@
 Предварительные оценки: TODO (таблица будет доступна после первой лекции)
 
 # Задания
-## Distributions, expectation, likelihood
-TODO 
+* Distributions, expectation, likelihood
+
 
 # Анкеты
 **Дедлайн по каждой анкете:** вторник, 23.59.
 
-## Distributions, expectation, likelihood
-TODO
+* Distributions, expectation, likelihood
+

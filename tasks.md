@@ -4,6 +4,7 @@
 Предварительные оценки: TODO (таблица будет доступна после первой лекции)
 
 # Задания
+**Дедлайн по каждому заданию:** вторник, 23.59.
 ## Distributions, expectation, likelihood
 Визуализировать зависимость распределения от параметров с использованием интерактивных графиков [help1](https://matplotlib.org/stable/users/interactive.html),[help2](https://stackoverflow.com/questions/44329068/jupyter-notebook-interactive-plot-with-widgets),[help3](https://towardsdatascience.com/matplotlib-animations-in-jupyter-notebook-4422e4f0e389):
 * Распределение Стьюдента от количества степеней свободы (+ показать на графике нормальное распределение)

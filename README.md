@@ -3,6 +3,7 @@
 Ссылка на встречу: TODO
 
 [Анкета](https://forms.gle/CJUj2UpYYjZxAA3F9)
+
 [Список докладов](talks.md)
 
 [Система оценок за курс](tasks.md)

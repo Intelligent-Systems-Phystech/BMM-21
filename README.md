@@ -2,7 +2,9 @@
 
 Ссылка на встречу: TODO
 
-[Анкета](https://forms.gle/CJUj2UpYYjZxAA3F9)
+[Анкета (дедлайн: 14 сентября 23.59)](https://forms.gle/CJUj2UpYYjZxAA3F9)
+
+
 
 [Список докладов](talks.md)
 

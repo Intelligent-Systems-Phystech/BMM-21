@@ -15,7 +15,7 @@
 ## План занятий
 |Дата|Занятие|Докладчики|
 | --- | --- | --- |
-| 8.09 |   Вводное занятие      | -  |
+| 8.09 |   [Вводное занятие](slides/slides_0_intro.pdf)      | -  |
 | 15.09 |   Distributions, expectation, likelihood      | ??? |
 | 22.09 |   Bayesian inference      | ???  |
 | 29.09 |   MDL      | ???  |

@@ -17,7 +17,7 @@
 | --- | --- | --- | --- |
 | 8.09 |   [Вводное занятие](slides/slides_0_intro.pdf)      | -  | [Запись](https://www.youtube.com/watch?v=O3hrivelSC4) |
 | 15.09 |   [Distributions, expectation, likelihood](slides/slides_1_distributions.pdf)      | ??? | [Запись](https://www.youtube.com/watch?v=29hXwr3d_sU)  |
-| 22.09 |   Bayesian inference      | ???  |  - |
+| 22.09 |   Bayesian inference      | Gumbel-softmax (Филатов Андрей)  |  - |
 | 29.09 |   MDL      | ???  |  - |
 | 6.10 |   Probabilistic metric spaces     | ??? |  - |
 | 13.10 |   Generative and discriminative models      | ??? |  - |

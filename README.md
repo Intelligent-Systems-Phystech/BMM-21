@@ -18,7 +18,7 @@
 | 8.09 |   [Вводное занятие](slides/slides_0_intro.pdf)      | -  | [Запись](https://www.youtube.com/watch?v=O3hrivelSC4) |
 | 15.09 |   [Distributions, expectation, likelihood](slides/slides_1_distributions.pdf)      | - | [Запись](https://www.youtube.com/watch?v=29hXwr3d_sU)  |
 | 22.09 |   [Bayesian inference](slides/slides_2_inference.pdf)       | [Gumbel-softmax (Филатов Андрей)](student_talks/Gumbel_distribution.pdf)  |  [Запись](https://www.youtube.com/watch?v=KI0nBqBViy0) |
-| 29.09 |   MDL(slides/slides_3_mdl.pdf)       | Аппроксимация Лапласа с факторизацией Кронекера (Колесов Александр)  |  - |
+| 29.09 |   [MDL](slides/slides_3_mdl.pdf)       | Аппроксимация Лапласа с факторизацией Кронекера (Колесов Александр)  |  - |
 | 6.10 |   Probabilistic metric spaces     | ??? |  - |
 | 13.10 |   Generative and discriminative models      | ??? |  - |
 | 20.10 |   Data generation, VAE, GAN      | ??? |  - |

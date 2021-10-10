@@ -23,7 +23,7 @@
 | 13.10 |   Probabilistic metric spaces     | ??? |  - | - |
 | 20.10 |   Generative and discriminative models      | ??? |  - | - |
 | 27.10 |   Data generation, VAE, GAN      | ??? |  - | - |
-| 3.10 |   Probabilistic graphical models       | ??? |  - |  Задание 3 |
+| 3.11 |   Probabilistic graphical models       | ??? |  - |  Задание 3 |
 | 10.11 |   Variational inference       | ??? |  - | - |
 | 17.11 |   Variational inference 2      | ??? |  - | - |
 | 24.11 |   Hyperparameter optimization     | ??? |  - | - |

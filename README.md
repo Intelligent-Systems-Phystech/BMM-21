@@ -20,7 +20,7 @@
 | 22.09 |   [Bayesian inference](slides/slides_2_inference.pdf)       | [Gumbel-softmax (Филатов Андрей)](student_talks/Gumbel_distribution.pdf)  |  [Запись](https://www.youtube.com/watch?v=KI0nBqBViy0) | - |
 | 29.09 |   [Bayesian inference](slides/slides_2_inference.pdf)        | [Аппроксимация Лапласа с факторизацией Кронекера (Колесов Александр)](student_talks/Laplace_Kronecker.pdf) |  [Запись](https://www.youtube.com/watch?v=5vC1RoTMToM&t=1s) | - |
 | 6.10 |  [MDL](slides/slides_3_mdl.pdf)     | - |  [Запись](https://www.youtube.com/watch?v=KxnE0z7UkaU) | [Задание 2](https://github.com/Intelligent-Systems-Phystech/BMM-21/tree/master/task2) |
-| 13.10 |   [Probabilistic metric spaces](slides/slides_4_prob.pdf)     | - |  - | - |
+| 13.10 |   [Probabilistic metric spaces](slides/slides_4_prob.pdf)     | - | [Запись](https://www.youtube.com/watch?v=Ho5BKkbY14A) | - |
 | 20.10 |   Generative and discriminative models      | ??? |  - | - |
 | 27.10 |   Data generation, VAE, GAN      | ??? |  - | - |
 | 3.11 |   Probabilistic graphical models       | ??? |  - |  Задание 3 |

@@ -7,8 +7,8 @@
 * ~~Оптимизация гиперпараметров в линейных моделях: интегрирование или максимизация [(ссылка на статью)](https://bayes.wustl.edu/MacKay/alpha.pdf)[Докладчик: TODO]~~
 
 ## Minimum Description Length
-~~* MDL и BIC ([учебник](https://arxiv.org/pdf/math/0406077.pdf), [статья про BIC](https://projecteuclid.org/journals/annals-of-statistics/volume-6/issue-2/Estimating-the-Dimension-of-a-Model/10.1214/aos/1176344136.full)) [Докладчик: TODO]~~
-~~* Связь структурной функции Колмогорова и MDL ([статья](https://homepages.cwi.nl/~paulv/papers/structure.pdf)) [Докладчик: TODO]~~
+* ~~MDL и BIC ([учебник](https://arxiv.org/pdf/math/0406077.pdf), [статья про BIC](https://projecteuclid.org/journals/annals-of-statistics/volume-6/issue-2/Estimating-the-Dimension-of-a-Model/10.1214/aos/1176344136.full)) [Докладчик: TODO]~~
+* ~~Связь структурной функции Колмогорова и MDL ([статья](https://homepages.cwi.nl/~paulv/papers/structure.pdf)) [Докладчик: TODO]~~
 
 ## Probabilistic metric spaces
 * Расстояние OTMANN на архитектурах нейронных сетей [(статья)](https://arxiv.org/pdf/1802.07191.pdf)[Докладчик: TODO]

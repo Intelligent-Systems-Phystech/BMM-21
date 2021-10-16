@@ -11,4 +11,4 @@
 ~~* Связь структурной функции Колмогорова и MDL ([статья](https://homepages.cwi.nl/~paulv/papers/structure.pdf)) [Докладчик: TODO]~~
 
 ## Probabilistic metric spaces
-* Расстояние OTMANN на архитектурах нейронных сетей [статья](https://arxiv.org/pdf/1802.07191.pdf)
+* Расстояние OTMANN на архитектурах нейронных сетей [(статья)](https://arxiv.org/pdf/1802.07191.pdf)[Докладчик: TODO]

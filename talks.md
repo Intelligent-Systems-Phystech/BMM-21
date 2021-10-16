@@ -8,6 +8,7 @@
 
 ## Minimum Description Length
 ~~* MDL и BIC ([учебник](https://arxiv.org/pdf/math/0406077.pdf), [статья про BIC](https://projecteuclid.org/journals/annals-of-statistics/volume-6/issue-2/Estimating-the-Dimension-of-a-Model/10.1214/aos/1176344136.full)) [Докладчик: TODO]~~
+
 ~~* Связь структурной функции Колмогорова и MDL ([статья](https://homepages.cwi.nl/~paulv/papers/structure.pdf)) [Докладчик: TODO]~~
 
 ## Probabilistic metric spaces

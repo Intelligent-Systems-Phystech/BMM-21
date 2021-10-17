@@ -12,3 +12,4 @@
 
 ## Probabilistic metric spaces
 * Расстояние OTMANN на архитектурах нейронных сетей [(статья)](https://arxiv.org/pdf/1802.07191.pdf)[Докладчик: TODO]
+* Wasserstein Distance Guided Representation Learning for Domain Adaptation [(статья)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17155/16613)[Докладчик: TODO]

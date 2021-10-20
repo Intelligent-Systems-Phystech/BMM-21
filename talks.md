@@ -11,5 +11,9 @@
 * ~~Связь структурной функции Колмогорова и MDL ([статья](https://homepages.cwi.nl/~paulv/papers/structure.pdf)) [Докладчик: TODO]~~
 
 ## Probabilistic metric spaces
-* Расстояние OTMANN на архитектурах нейронных сетей [(статья)](https://arxiv.org/pdf/1802.07191.pdf)[Докладчик: TODO]
-* Wasserstein Distance Guided Representation Learning for Domain Adaptation [(статья)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17155/16613)[Докладчик: TODO]
+* ~~Расстояние OTMANN на архитектурах нейронных сетей [(статья)](https://arxiv.org/pdf/1802.07191.pdf)[Докладчик: TODO]~~
+* ~~Wasserstein Distance Guided Representation Learning for Domain Adaptation [(статья)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17155/16613)[Докладчик: TODO]~~
+
+## Generative and discriminative models
+* Generative vs Discriminative для VAE [(статья)](https://arxiv.org/pdf/1406.5298.pdf)[Докладчик: TODO]
+* Generative vs. Discriminative: вторая статья Bishop [(cтатья)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-CVPR-05.pdf)[Докладчик: TODO]

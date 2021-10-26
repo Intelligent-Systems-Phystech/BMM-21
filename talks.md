@@ -15,5 +15,5 @@
 * ~~Wasserstein Distance Guided Representation Learning for Domain Adaptation [(статья)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17155/16613)[Докладчик: TODO]~~
 
 ## Generative and discriminative models
-* Generative vs Discriminative для VAE [(статья)](https://arxiv.org/pdf/1406.5298.pdf)[Докладчик: TODO]
+* Generative vs Discriminative для VAE [(статья)](https://arxiv.org/pdf/1406.5298.pdf)[Докладчик: Гребенькова Ольга]
 * Generative vs. Discriminative: вторая статья Bishop [(cтатья)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-CVPR-05.pdf)[Докладчик: TODO]

@@ -22,7 +22,7 @@
 | 6.10 |  [MDL](slides/slides_3_mdl.pdf)     | - |  [Запись](https://www.youtube.com/watch?v=KxnE0z7UkaU) | [Задание 2](https://github.com/Intelligent-Systems-Phystech/BMM-21/tree/master/task2) |
 | 13.10 |   [Probabilistic metric spaces](slides/slides_4_prob.pdf)     | - | [Запись](https://www.youtube.com/watch?v=Ho5BKkbY14A) | - |
 | 20.10 |   [Generative and discriminative models](slides/slides_5_gendisc.pdf)      | - |  [Запись](https://www.youtube.com/watch?v=WODEjWQoTHY) | - |
-| 27.10 |   Data generation, VAE, GAN      | ??? |  - | - |
+| 27.10 |   [Data generation, VAE, GAN](slides/slides_6_generative.pdf)      | ??? |  - | - |
 | 3.11 |   Probabilistic graphical models       | ??? |  - |  Задание 3 |
 | 10.11 |   Variational inference       | ??? |  - | - |
 | 17.11 |   Variational inference 2      | ??? |  - | - |

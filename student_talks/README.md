@@ -10,3 +10,10 @@
 * https://openreview.net/pdf?id=Skdvd2xAZ
 * http://www.inference.org.uk/itprnn/book.pdf\
 * http://strijov.com/papers/HyperOptimizationEng.pdf
+
+
+
+## Ольга Гребенькова, [Обучение с частичным использованием учителя на генеративных моделях](Grebenkova_GAN_semi_supervised.pdf)
+### Доп материал:
+* https://arxiv.org/pdf/1406.5298.pdf
+

@@ -2,7 +2,7 @@
 
 [Ссылка на встречу](http://m1p.org/go_zoom2)
 
-[Анкета (дедлайн: 27 октября 23.59)](https://forms.gle/2KLqdpUrebNMYXz76)
+[Анкета (дедлайн: 3 октября 23.59)](https://forms.gle/bcUKmKWywnRpT42e7)
 
 ~~[Задание 2 (дедлайн: 20 октября 23.59)](task2/)~~
 

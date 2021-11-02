@@ -23,12 +23,11 @@
 | 13.10 |   [Probabilistic metric spaces](slides/slides_4_prob.pdf)     | - | [Запись](https://www.youtube.com/watch?v=Ho5BKkbY14A) | - |
 | 20.10 |   [Generative and discriminative models](slides/slides_5_gendisc.pdf)      | - |  [Запись](https://www.youtube.com/watch?v=WODEjWQoTHY) | - |
 | 27.10 |   [Data generation, VAE, GAN](slides/slides_6_generative.pdf)      | [Обучение с частичным использованием учителя на генеративных моделях (Гребенькова Ольга)](https://github.com/Intelligent-Systems-Phystech/BMM-21/blob/master/student_talks/Grebenkova_GAN_semi_supervised.pdf) |  [Запись](https://www.youtube.com/watch?v=2sMNoxa0_lA) | - |
-| 3.11 |   Probabilistic graphical models       | ??? |  - |  Задание 3 |
-| 10.11 |   Variational inference       | ??? |  - | - |
-| 17.11 |   Variational inference 2      | ??? |  - | - |
-| 24.11 |   Hyperparameter optimization     | ??? |  - | - |
-| 1.12 |   Meta-optimization     | ??? |  - |  Задание 4 |
-| 8.12 |   Bayesian PCA, GLM and NN      | ??? |  - | - |
+| 10.11 |   Probabilistic graphical models       | ??? |  - |  Задание 3 |
+| 17.11 |   Variational inference       | ??? |  - | - |
+| 24.11 |   Variational inference 2      | ??? |  - | - |
+| 1.12 |   Hyperparameter optimization     | ??? |  - | Задание 4 |
+| 8.12 |   Meta-optimization     | ??? |  - |  - |
 | 15.12 |   Зачет     | - |  - | - |
 
 

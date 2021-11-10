@@ -24,4 +24,4 @@
 
 ## Probabilistic graphical models
 * Graph neural diffusion, GRAND, [(статья)](https://arxiv.org/abs/2106.10934) [Докладчик: TODO]
-* S-VAE [(статья)](http://datta.hms.harvard.edu/wp-content/uploads/2018/01/pub_24.pdf), [(презентация)](http://web.cs.ucla.edu/~yzsun/classes/2020Winter_CS249/Papers/Group7_SVAE.pdf) [Докладчик: TODO]
+* S-VAE [(статья)](http://datta.hms.harvard.edu/wp-content/uploads/2018/01/pub_24.pdf), [(презентация)](http://web.cs.ucla.edu/~yzsun/classes/2020Winter_CS249/Papers/Group7_SVAE.pdf) [Докладчик: Филатов Андрей]

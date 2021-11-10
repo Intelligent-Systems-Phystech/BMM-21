@@ -19,8 +19,8 @@
 * ~~Generative vs. Discriminative: вторая статья Bishop [(cтатья)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-CVPR-05.pdf)[Докладчик: TODO]~~
 
 ## Data generation, VAE, GAN
-* Определение out-of-distribution объектов через энтропию вероятностных моделей [(статья)](https://arxiv.org/pdf/1703.04977.pdf), [(семинар)](https://www.youtube.com/watch?v=N-p_qSLzoAI)  (в семинаре покрываются обе темы для докладов, это не ошибка, прим. Олег)[Докладчик: TODO]
-* Определение out-of-distribution объектов через наивные оценки вероятностных моделей [(статья)](https://arxiv.org/pdf/1906.02530.pdf), [(семинар)](https://www.youtube.com/watch?v=N-p_qSLzoAI) (в семинаре покрываются обе темы для докладов, это не ошибка, прим. Олег)[Докладчик: TODO]
+~~* Определение out-of-distribution объектов через энтропию вероятностных моделей [(статья)](https://arxiv.org/pdf/1703.04977.pdf), [(семинар)](https://www.youtube.com/watch?v=N-p_qSLzoAI)  (в семинаре покрываются обе темы для докладов, это не ошибка, прим. Олег)[Докладчик: TODO]~~
+~~* Определение out-of-distribution объектов через наивные оценки вероятностных моделей [(статья)](https://arxiv.org/pdf/1906.02530.pdf), [(семинар)](https://www.youtube.com/watch?v=N-p_qSLzoAI) (в семинаре покрываются обе темы для докладов, это не ошибка, прим. Олег)[Докладчик: TODO]~~
 
 ## Probabilistic graphical models
 * Graph neural diffusion, GRAND, [(статья)](https://arxiv.org/abs/2106.10934) [Докладчик: TODO]

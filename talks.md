@@ -23,5 +23,9 @@
 ~~* Определение out-of-distribution объектов через наивные оценки вероятностных моделей [(статья)](https://arxiv.org/pdf/1906.02530.pdf), [(семинар)](https://www.youtube.com/watch?v=N-p_qSLzoAI) (в семинаре покрываются обе темы для докладов, это не ошибка, прим. Олег)[Докладчик: TODO]~~
 
 ## Probabilistic graphical models
-* Graph neural diffusion, GRAND, [(статья)](https://arxiv.org/abs/2106.10934) [Докладчик: TODO]
-* S-VAE [(статья)](http://datta.hms.harvard.edu/wp-content/uploads/2018/01/pub_24.pdf), [(презентация)](http://web.cs.ucla.edu/~yzsun/classes/2020Winter_CS249/Papers/Group7_SVAE.pdf) [Докладчик: TODO]
+* ~~Graph neural diffusion, GRAND, [(статья)](https://arxiv.org/abs/2106.10934) [Докладчик: TODO]~~
+* ~~S-VAE [(статья)](http://datta.hms.harvard.edu/wp-content/uploads/2018/01/pub_24.pdf), [(презентация)](http://web.cs.ucla.edu/~yzsun/classes/2020Winter_CS249/Papers/Group7_SVAE.pdf) [Докладчик: TODO]~~
+
+## Variational inference
+* Связь MCMC и вар. вывода [(статья)](http://proceedings.mlr.press/v37/salimans15.pdf)[Докладчик: TODO]
+* Fixing a Broken ELBO: обобщение ELBO для генеративных моделей [(статья)](http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf)[Докладчик: TODO]

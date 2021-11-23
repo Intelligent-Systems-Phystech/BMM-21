@@ -28,4 +28,4 @@
 
 ## Variational inference
 * Связь MCMC и вар. вывода [(статья)](http://proceedings.mlr.press/v37/salimans15.pdf)[Докладчик: TODO]
-* Fixing a Broken ELBO: обобщение ELBO для генеративных моделей [(статья)](http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf)[Докладчик: TODO]
+* Fixing a Broken ELBO: обобщение ELBO для генеративных моделей [(статья)](http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf)[Докладчик: Гребенькова]

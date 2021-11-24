@@ -17,3 +17,6 @@
 ### Доп материал:
 * https://arxiv.org/pdf/1406.5298.pdf
 
+## Ольга Гребенькова, [Исправленный вариант ELBO](GrebenkovaFixedELBO.pdf)
+### Доп материал:
+* http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf

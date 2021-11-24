@@ -27,5 +27,5 @@
 * ~~S-VAE [(статья)](http://datta.hms.harvard.edu/wp-content/uploads/2018/01/pub_24.pdf), [(презентация)](http://web.cs.ucla.edu/~yzsun/classes/2020Winter_CS249/Papers/Group7_SVAE.pdf) [Докладчик: TODO]~~
 
 ## Variational inference
-* Связь MCMC и вар. вывода [(статья)](http://proceedings.mlr.press/v37/salimans15.pdf)[Докладчик: TODO]
+* Связь MCMC и вар. вывода [(статья)](http://proceedings.mlr.press/v37/salimans15.pdf)[Колесов]
 * Fixing a Broken ELBO: обобщение ELBO для генеративных моделей [(статья)](http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf)[Докладчик: Гребенькова]

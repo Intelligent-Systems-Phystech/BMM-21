@@ -3,7 +3,7 @@
 [Ссылка на встречу](http://m1p.org/go_zoom2)
 
 
-**[Перекрестные доклады по заданию 3](cross_talks/task3)**
+**[Перекрестные доклады по заданию 3](cross_talks/task3.md)**
 
 [Анкета (дедлайн: 1 декабря 23.59)](https://forms.gle/ALYSysmHqq6yCtmMA)
 

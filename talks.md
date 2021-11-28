@@ -29,4 +29,4 @@
 ## Variational inference (1,2)
 * Связь MCMC и вар. вывода [(статья)](http://proceedings.mlr.press/v37/salimans15.pdf)[Колесов]
 * Fixing a Broken ELBO: обобщение ELBO для генеративных моделей [(статья)](http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf)[Докладчик: Гребенькова]
-* SGD как вариационное распределение [(статья)](https://www.jmlr.org/papers/volume18/17-214/17-214.pdf)[Докладчик: Панкратов]
+* SGD как вариационное распределение [(статья)](https://www.jmlr.org/papers/volume18/17-214/17-214.pdf)[Докладчик: TODO]

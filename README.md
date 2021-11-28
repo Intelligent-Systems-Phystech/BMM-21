@@ -28,7 +28,7 @@
 | 27.10 |   [Data generation, VAE, GAN](slides/slides_6_generative.pdf)      | [Обучение с частичным использованием учителя на генеративных моделях (Гребенькова Ольга)](https://github.com/Intelligent-Systems-Phystech/BMM-21/blob/master/student_talks/Grebenkova_GAN_semi_supervised.pdf) |  [Запись](https://www.youtube.com/watch?v=2sMNoxa0_lA) | - |
 | 10.11 |   [Probabilistic graphical models](slides/slides_7_graph.pdf)       | - |  [Запись](https://youtu.be/2kUPPgxHr1A) |  [Задание 3](task3) |
 | 17.11 |   [Variational inference](slides/slides_8_var1.pdf)       | - |  [Запись](https://youtu.be/gUDAHudPT_Y) | - |
-| 24.11 |   [Variational inference 2](slides/slides_9_var2.pdf)      | [Ольга Гребенькова, Исправленный вариант ELBO](https://github.com/Intelligent-Systems-Phystech/BMM-21/blob/master/student_talks/GrebenkovaFixedELBO.pdf) |  [Запись](https://www.youtube.com/watch?v=wkrH-7ot3Qk&t=1s) | - |
+| 24.11 |   [Variational inference 2](slides/slides_9_var2.pdf)      | [Исправленный вариант ELBO (Ольга Гребенькова)](https://github.com/Intelligent-Systems-Phystech/BMM-21/blob/master/student_talks/GrebenkovaFixedELBO.pdf) |  [Запись](https://www.youtube.com/watch?v=wkrH-7ot3Qk&t=1s) | - |
 | 1.12 |   Hyperparameter optimization     | ??? |  - | Задание 4 |
 | 8.12 |   Meta-optimization     | ??? |  - |  - |
 | 15.12 |   Зачет     | - |  - | - |

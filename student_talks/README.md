@@ -11,10 +11,6 @@
 * http://www.inference.org.uk/itprnn/book.pdf\
 * http://strijov.com/papers/HyperOptimizationEng.pdf
 
-## Виктор Панкратов, [Недорогая градиентная оптимизация](Pankratov_HOIFT.pdf)
-### Доп материал:
-* http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf
-* https://arxiv.org/pdf/1502.03492.pdf
 
 ## Ольга Гребенькова, [Обучение с частичным использованием учителя на генеративных моделях](Grebenkova_GAN_semi_supervised.pdf)
 ### Доп материал:
@@ -23,3 +19,10 @@
 ## Ольга Гребенькова, [Исправленный вариант ELBO](GrebenkovaFixedELBO.pdf)
 ### Доп материал:
 * http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf
+
+## Александр Колесов, [MCMC и варационный вывод](Kolesov_mcmc.pdf)
+
+## Виктор Панкратов, [Недорогая градиентная оптимизация](Pankratov_HOIFT.pdf)
+### Доп материал:
+* http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf
+* https://arxiv.org/pdf/1502.03492.pdf

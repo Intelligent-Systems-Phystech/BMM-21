@@ -3,7 +3,7 @@
 [Ссылка на встречу](http://m1p.org/go_zoom2)
 
 
-**[Перекрестные доклады по заданию 3](cross_talks/task3.md)**
+~**[Перекрестные доклады по заданию 3](cross_talks/task3.md)**~
 
 [Анкета (дедлайн: 8 декабря 23.59)](https://forms.gle/8UARwbv6iJdFZiRt7)
 
@@ -30,7 +30,7 @@
 | 17.11 |   [Variational inference](slides/slides_8_var1.pdf)       | - |  [Запись](https://youtu.be/gUDAHudPT_Y) | - |
 | 24.11 |   [Variational inference 2](slides/slides_9_var2.pdf)      | [Исправленный вариант ELBO (Ольга Гребенькова)](https://github.com/Intelligent-Systems-Phystech/BMM-21/blob/master/student_talks/GrebenkovaFixedELBO.pdf) |  [Запись](https://www.youtube.com/watch?v=wkrH-7ot3Qk&t=1s) | - |
 | 1.12 |   [Hyperparameter optimization](slides/slides_10_hyper.pdf)     | ??? |  - | [Задание 4](task4) |
-| 8.12 |   Meta-optimization     | ??? |  - |  - |
+| 8.12 |   Meta-optimization     | ??? |  [Запись](https://www.youtube.com/watch?v=ExwrM6IAWHQ&t=1742s) |  - |
 | 15.12 |   Зачет     | - |  - | - |
 
 

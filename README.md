@@ -5,7 +5,7 @@
 
 ~**[Перекрестные доклады по заданию 3](cross_talks/task3.md)**~
 
-[Анкета (дедлайн: 8 декабря 23.59)](https://forms.gle/8UARwbv6iJdFZiRt7)
+[Анкета (дедлайн: 15 декабря 23.59)](https://forms.gle/bYtaEwfDEDANgVmQ6)
 
 [Задание 4 (дедлайн: 15 декабря 23.59)](task4/)
 

@@ -32,9 +32,13 @@
 * ~~SGD как вариационное распределение [(статья)](https://www.jmlr.org/papers/volume18/17-214/17-214.pdf)[Докладчик: TODO]~~
 
 ## Оптимизация гиперпараметров
-* Оптимизация гиперпараметров через гиперсети[(статья)](https://arxiv.org/abs/1802.09419) [Докладчик: TODO]
-* Недорогая градиентная оптимизация [(статья)](http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf) [Докладчик: Панкратов]
+* ~~Оптимизация гиперпараметров через гиперсети[(статья)](https://arxiv.org/abs/1802.09419) [Докладчик: TODO]~~
+* ~~Недорогая градиентная оптимизация [(статья)](http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf) [Докладчик: Панкратов]~~
 
 ## Оптимизация метапараметров
-* Model-agnostic optimization [(статья)](https://arxiv.org/pdf/1703.03400.pdf) [Докладчик: TODO]
-* RNN как оператор оптимизации + гауссовый процесс [(статья)](https://arxiv.org/pdf/1611.03824.pdf)  [Докладчик: TODO]
+* ~~Model-agnostic optimization [(статья)](https://arxiv.org/pdf/1703.03400.pdf) [Докладчик: TODO]~~
+* ~~RNN как оператор оптимизации + гауссовый процесс [(статья)](https://arxiv.org/pdf/1611.03824.pdf)  [Докладчик: TODO]~~
+
+## Bayesian PCA, GLM and NN
+* Вероятностный метод PCA[(статья)](http://www.cs.columbia.edu/~blei/seminar/2020-representation/readings/TippingBishop1999.pdf)
+* On the Expressiveness of Approximate Inference in Bayesian Neural Networks [(статья)](https://proceedings.neurips.cc/paper/2020/file/b6dfd41875bc090bd31d0b1740eb5b1b-Paper.pdf)

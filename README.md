@@ -17,7 +17,7 @@
 |Дата|Занятие|Докладчики|Запись| Задания |
 | --- | --- | --- | --- | --- |
 | 9.02 | Bayesian PCA, GLM and NN | -  | - | - |
-| 16.02 | Gaussian processes | - | - | - |
+| 16.02 | Gaussian processes | [Слайды](slides/slides_12_gp.pdf) | - | - |
 | 2.03 | Belief propagation, networks, and hierarchical models  | -  | - | - |
 | 9.03 | Structure priors and model selection | -  | - | - |
 | 16.03 | Informative prior, Sampling, importance, Metropolis-Hastings | -  | - | - |

@@ -16,15 +16,15 @@
 | --- | --- | --- | --- | --- |
 | 9.02 | Вводное занятие | -  | - | - |
 | 16.02 | [Gaussian processes](slides/slides_12_gp.pdf) | - | [Запись](https://youtu.be/mxJQ6CwPECo) | - | 
-| 2.03 | Belief propagation, networks, and hierarchical models  | -  | - | - |
+| 2.03 | Belief propagation, networks, and hierarchical models  | -  | - | Задание 1 |
 | 9.03 | Structure priors and model selection | -  | - | - |
 | 16.03 | Informative prior, Sampling, importance, Metropolis-Hastings | -  | - | - |
-| 23.03 | Random processes and genetics for model generation | -  | - | - |
-| 30.04| Model ensembles, Mixture of experts | -  | - | - |
+| 23.03 | Random processes and genetics for model generation | -  | - | Задание 2 |
+| 30.03| Model ensembles, Mixture of experts | -  | - | - |
 | 6.04 | Distilling and privileged learning  | -  | - | - |
-| 13.04 | Transfer learning, multitask learning | -  | - | - |
-| 27.05| Domain adaptation | -  | - | - |
-| 04.05 | Projection to latent space | -  | - | - |
+| 13.04 | Transfer learning, multitask learning | -  | - | Задание 3 |
+| 27.04| Domain adaptation | -  | - | - |
+| 04.05 | Projection to latent space | -  | - | Задание 4 |
 | 11.05 | Bayesian agents, multi-agents and reinforcement | -  | - | - |
 
 

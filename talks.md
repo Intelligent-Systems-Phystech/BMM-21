@@ -40,7 +40,7 @@
 * ~~RNN как оператор оптимизации + гауссовый процесс [(статья)](https://arxiv.org/pdf/1611.03824.pdf)  [Докладчик: TODO]~~
 
 ## Bayesian PCA, GLM and NN
-* Вероятностный метод PCA [(статья)](http://www.cs.columbia.edu/~blei/seminar/2020-representation/readings/TippingBishop1999.pdf) [Докладчик: TODO]
+* Вероятностный метод PCA [(статья)](http://www.cs.columbia.edu/~blei/seminar/2020-representation/readings/TippingBishop1999.pdf) [Докладчик: Сафиуллин]
 * On the Expressiveness of Approximate Inference in Bayesian Neural Networks [(статья)](https://proceedings.neurips.cc/paper/2020/file/b6dfd41875bc090bd31d0b1740eb5b1b-Paper.pdf) [Докладчик: TODO]
 
 ## Гауссовские процессы

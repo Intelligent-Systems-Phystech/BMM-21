@@ -14,7 +14,7 @@
 ## План занятий
 |Дата|Занятие|Докладчики|Запись| Задания |
 | --- | --- | --- | --- | --- |
-| 9.02 | Bayesian PCA, GLM and NN | -  | - | - |
+| 9.02 | Вводное занятие | -  | - | - |
 | 16.02 | [Gaussian processes](slides/slides_12_gp.pdf) | - | [Запись](https://youtu.be/mxJQ6CwPECo) | - | 
 | 2.03 | Belief propagation, networks, and hierarchical models  | -  | - | - |
 | 9.03 | Structure priors and model selection | -  | - | - |

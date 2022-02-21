@@ -1,7 +1,7 @@
 # Байесовское мультимоделирование
 [Оценки за курс](eval.md)
 
-[Анкета: дедлайн 23 февраля, 23.59](https://forms.gle/6VjqmPiasqnqFVqRA)
+[Анкета: дедлайн 2 марта, 23.59](https://forms.gle/6VjqmPiasqnqFVqRA)
 
 [Задание: TODO](TODO)
 

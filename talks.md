@@ -44,5 +44,5 @@
 * On the Expressiveness of Approximate Inference in Bayesian Neural Networks [(статья)](https://proceedings.neurips.cc/paper/2020/file/b6dfd41875bc090bd31d0b1740eb5b1b-Paper.pdf) [Докладчик: TODO]
 
 ## Гауссовские процессы
-* Нейросеть как аппроксимация гауссовских процессов для оптимизации гиперпараметров [(статья)](http://proceedings.mlr.press/v37/snoek15.pdf) [Докладчик: TODO]
+* Нейросеть как аппроксимация гауссовских процессов для оптимизации гиперпараметров [(статья)](http://proceedings.mlr.press/v37/snoek15.pdf) [Докладчик: Панкратов]
 * Гауссовские процессы как аппроксимация нейросетей для исследования устойчивости моделей [(статья)](https://arxiv.org/abs/1402.5836)  [Гребенькова]

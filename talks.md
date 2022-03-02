@@ -41,8 +41,11 @@
 
 ## Bayesian PCA, GLM and NN
 * Вероятностный метод PCA [(статья)](http://www.cs.columbia.edu/~blei/seminar/2020-representation/readings/TippingBishop1999.pdf) [Докладчик: Сафиуллин]
-* On the Expressiveness of Approximate Inference in Bayesian Neural Networks [(статья)](https://proceedings.neurips.cc/paper/2020/file/b6dfd41875bc090bd31d0b1740eb5b1b-Paper.pdf) [Докладчик: TODO]
+* ~~On the Expressiveness of Approximate Inference in Bayesian Neural Networks [(статья)](https://proceedings.neurips.cc/paper/2020/file/b6dfd41875bc090bd31d0b1740eb5b1b-Paper.pdf) [Докладчик: TODO]~~
 
 ## Гауссовские процессы
 * Нейросеть как аппроксимация гауссовских процессов для оптимизации гиперпараметров [(статья)](http://proceedings.mlr.press/v37/snoek15.pdf) [Докладчик: Панкратов]
 * Гауссовские процессы как аппроксимация нейросетей для исследования устойчивости моделей [(статья)](https://arxiv.org/abs/1402.5836)  [Гребенькова]
+
+## Иерархические модели
+* Ladder VAE [(статья)](https://arxiv.org/pdf/1602.02282.pdf) [Докладчик: TODO]

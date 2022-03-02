@@ -54,7 +54,7 @@
 * [DL book](https://www.deeplearningbook.org/contents/generative_models.html)
 * [статья на medium](https://medium.com/datatype/restricted-boltzmann-machine-a-complete-analysis-part-3-contrastive-divergence-algorithm-3d06bbebb10c)
 
-7. [Исполнитель: TODO] визуализировать задачу регрессии с применением гауссового процесса. Показать, как меняется предсказание в зависимости от гиперпараметров гауссового процесса. 
+7. [Исполнитель: Шокоров] визуализировать задачу регрессии с применением гауссового процесса. Показать, как меняется предсказание в зависимости от гиперпараметров гауссового процесса. 
 Выборка: одна из стандартных выборок из sklearn.
 
 * [выборки](https://scikit-learn.org/stable/datasets/toy_dataset.html)

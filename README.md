@@ -18,7 +18,7 @@
 | --- | --- | --- | --- | --- |
 | 9.02 | Вводное занятие | -  | - | - |
 | 16.02 | [Gaussian processes](slides/slides_12_gp.pdf) | - | [Запись](https://youtu.be/mxJQ6CwPECo) | - | 
-| 2.03 | Belief propagation, networks, and hierarchical models  | -  | - | Задание 5 |
+| 2.03 | [Belief propagation, networks, and hierarchical models](slides/slides_13_hier.pdf)  | -  | [Запись](https://youtu.be/Q2na4zphieI) | [Задание 5](task-5) |
 | 9.03 | Structure priors and model selection | -  | - | - |
 | 16.03 | Informative prior, Sampling, importance, Metropolis-Hastings | -  | - | - |
 | 23.03 | Random processes and genetics for model generation | -  | - | Задание 6 |

@@ -3,7 +3,7 @@
 
 [Оценки за курс](eval.md)
 
-[Анкета: дедлайн 2 марта, 23.59](https://forms.gle/6VjqmPiasqnqFVqRA)
+[Анкета: дедлайн 9 марта, 23.59](https://forms.gle/Se3h9Spi2aCG8x5h6)
 
 [Задание: дедлайн 16 марта, 23.59](task-5)
 

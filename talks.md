@@ -49,3 +49,7 @@
 
 ## Иерархические модели
 * Ladder VAE [(статья)](https://arxiv.org/pdf/1602.02282.pdf) [Докладчик: Бишук (если можно взять эту тему на следующий семинар)]
+
+## Structure priors and model selection
+* Декодинг деревьев с помощью LSTM [(статья)](https://openreview.net/pdf?id=HkYhZDqxg) [Докладчик: TODO]
+* Выбор архитектуры нейросетей с радемахеровской сложностью [(статья)](https://arxiv.org/pdf/1607.01097.pdf) [Докладчик: TODO]

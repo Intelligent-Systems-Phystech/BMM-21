@@ -55,7 +55,7 @@
 * Выбор архитектуры нейросетей с радемахеровской сложностью [(статья)](https://arxiv.org/pdf/1607.01097.pdf) [Докладчик: Панкратов]
 
 ## Random processes and genetics for model generation
-* NAS с наращиванием нейросети [(статья)](https://proceedings.neurips.cc/paper/2020/file/fdbe012e2e11314b96402b32c0df26b7-Paper.pdf) [Докладчик: TODO]
+* NAS с наращиванием нейросети [(статья)](https://proceedings.neurips.cc/paper/2020/file/fdbe012e2e11314b96402b32c0df26b7-Paper.pdf) [Докладчик: Филатов]
 * Lottery ticket для случайных подзадач [(статья)](https://arxiv.org/pdf/2006.14769.pdf) [Докладчик: TODO]
 
 ## Informative prior, Sampling, importance, Metropolis-Hastings

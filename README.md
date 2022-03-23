@@ -23,10 +23,10 @@
 | --- | --- | --- | --- | --- |
 | 9.02 | Вводное занятие | -  | - | - |
 | 16.02 | [Gaussian processes](slides/slides_12_gp.pdf) | - | [Запись](https://youtu.be/mxJQ6CwPECo) | - | 
-| 2.03 | [Belief propagation, networks, and hierarchical models](slides/slides_13_hier.pdf)  | -  | [Запись](https://youtu.be/Q2na4zphieI) | [Задание 5](task-5) |
+| 2.03 | [Belief propagation, networks, and hierarchical models](slides/slides_13_hier.pdf)  | -  | [Запись](https://youtu.be/Q2na4zphieI) | [Задание 5](task5) |
 | ~~9.03~~ 16.03 | [Structure priors and model selection](slides/slides14_struct.pdf) | -  | - | - |
 | 16.03 | [Random processes and genetics for model generation](slides/slides15_evo.pdf) | -  | [Запись](https://www.youtube.com/watch?v=HK8hbSMKiMo) | - |
-| 23.03 | Informative prior, Sampling, importance, Metropolis-Hastings | -  | - | Задание 6 |
+| 23.03 | Informative prior, Sampling, importance, Metropolis-Hastings | -  | - | [Задание 6](task6) |
 | 30.03| Model ensembles, Mixture of experts | -  | - | - |
 | 6.04 | Distilling and privileged learning  | -  | - | - |
 | 13.04 | Transfer learning, multitask learning | -  | - | Задание 7 |

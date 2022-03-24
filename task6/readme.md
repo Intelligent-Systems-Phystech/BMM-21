@@ -12,7 +12,7 @@
 * [статья на medium](https://medium.com/datatype/restricted-boltzmann-machine-a-complete-analysis-part-3-contrastive-divergence-algorithm-3d06bbebb10c)
 
 
-### 2. [Исполнитель: TODO] 
+### 2. [Исполнитель: Бишук] 
 Просэмплировать варианты нейросетей по сетке, сделать 3d-график, каждая точка которого соответствует модели, а координаты:
 * Количество параметров нейросети
 * Точность модели

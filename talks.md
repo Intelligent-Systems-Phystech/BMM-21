@@ -60,4 +60,4 @@
 
 ## Informative prior, Sampling, importance, Metropolis-Hastings
 * Firefly MCMC: работа MCMC с батчами  [(статья)](https://arxiv.org/pdf/1403.5693.pdf) [Докладчик: TODO]
-* GAN и MCMC [(статья)](https://proceedings.neurips.cc/paper/2020/file/90525e70b7842930586545c6f1c9310c-Paper.pdf) [Докладчик: TODO]
+* GAN и MCMC [(статья)](https://proceedings.neurips.cc/paper/2020/file/90525e70b7842930586545c6f1c9310c-Paper.pdf) [Докладчик: Сафиуллин]

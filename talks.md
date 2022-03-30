@@ -59,5 +59,5 @@
 * Lottery ticket для случайных подзадач [(статья)](https://arxiv.org/pdf/2006.14769.pdf) [Докладчик: TODO]
 
 ## Informative prior, Sampling, importance, Metropolis-Hastings
-* Firefly MCMC: работа MCMC с батчами  [(статья)](https://arxiv.org/pdf/1403.5693.pdf) [Докладчик: TODO]
+* Firefly MCMC: работа MCMC с батчами  [(статья)](https://arxiv.org/pdf/1403.5693.pdf) [Докладчик: Филатов]
 * GAN и MCMC [(статья)](https://proceedings.neurips.cc/paper/2020/file/90525e70b7842930586545c6f1c9310c-Paper.pdf) [Докладчик: Сафиуллин]

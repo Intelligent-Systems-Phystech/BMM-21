@@ -29,9 +29,9 @@
 | 23.03 | Informative prior, Sampling, importance, Metropolis-Hastings | -  | - | [Задание 6](task6) |
 | 30.03| Model ensembles, Mixture of experts | -  | - | - |
 | 6.04 | Distilling and privileged learning  | -  | - | - |
-| 13.04 | Transfer learning, multitask learning | -  | - | Задание 7 |
-| 27.04| Domain adaptation | -  | - | - |
-| 04.05 | Projection to latent space | -  | - | Задание 8 |
+| 13.04 | Transfer learning, multitask learning | -  | - | - |
+| 27.04| Domain adaptation | -  | - | Задание 7 |
+| 04.05 | Projection to latent space | -  | - | - |
 | 11.05 | Bayesian agents, multi-agents and reinforcement | -  | - | - |
 
 

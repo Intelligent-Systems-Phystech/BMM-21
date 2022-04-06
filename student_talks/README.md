@@ -26,3 +26,9 @@
 ### Доп материал:
 * http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf
 * https://arxiv.org/pdf/1502.03492.pdf
+## Роберт Сафиуллин, [Вероятностный метод PCA](Safiullin_ProbPCA.pdf)
+### Доп материал:
+* http://www.cs.columbia.edu/~blei/seminar/2020-representation/readings/TippingBishop1999.pdf
+## Роберт Сафиуллин, [GAN и MCMC](Safiullin_E_basedGAN.pdf)
+### Доп материал:
+* https://arxiv.org/pdf/2003.06060.pdf

@@ -26,9 +26,9 @@
 | 2.03 | [Belief propagation, networks, and hierarchical models](slides/slides_13_hier.pdf)  | -  | [Запись](https://youtu.be/Q2na4zphieI) | [Задание 5](task5) |
 | ~~9.03~~ 16.03 | [Structure priors and model selection](slides/slides14_struct.pdf) | -  | - | - |
 | 16.03 | [Random processes and genetics for model generation](slides/slides15_evo.pdf) | -  | [Запись](https://www.youtube.com/watch?v=HK8hbSMKiMo) | - |
-| 23.03 | Informative prior, Sampling, importance, Metropolis-Hastings | -  | - | [Задание 6](task6) |
-| 30.03| Model ensembles, Mixture of experts | -  | - | - |
-| 6.04 | Distilling and privileged learning  | -  | - | - |
+| 23.03 | Обсуждение задания 5 | - | [Запись](https://www.youtube.com/watch?v=AcnA6hSC4Pk) |
+| 6.04 | [Informative prior, Sampling, importance, Metropolis-Hastings](slides/slides16_mc.pdf), [Model ensembles, Mixture of experts](slides/slides17_ens.pdf) | - | [Запись](https://www.youtube.com/watch?v=kRzf0jDIbV8) |
+| 6.04 | [Distilling and privileged learning](slides/slides18_dist.pdf) | [Запись](https://www.youtube.com/watch?v=F1yWOyMJnF4) |
 | 13.04 | Transfer learning, multitask learning | -  | - | - |
 | 27.04| Domain adaptation | -  | - | Задание 7 |
 | 04.05 | Projection to latent space | -  | - | - |

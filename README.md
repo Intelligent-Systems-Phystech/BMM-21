@@ -29,9 +29,9 @@
 | 23.03 | Обсуждение задания 5 | - | [Запись](https://www.youtube.com/watch?v=AcnA6hSC4Pk) |
 | 6.04 | [Informative prior, Sampling, importance, Metropolis-Hastings](slides/slides16_mc.pdf), [Model ensembles, Mixture of experts](slides/slides17_ens.pdf) | - | [Запись](https://www.youtube.com/watch?v=kRzf0jDIbV8) |
 | 6.04 | [Distilling and privileged learning](slides/slides18_dist.pdf) | - |  [Запись](https://www.youtube.com/watch?v=F1yWOyMJnF4) |
-| 13.04 | Transfer learning, multitask learning | -  | - | - |
-| 27.04| Domain adaptation | -  | - | Задание 7 |
-| 04.05 | Projection to latent space | -  | - | - |
+| 13.04 | Transfer learning, Domain adaptation | -  | - | - |
+| 20.04| Multitask learning | -  | - | Задание 7 |
+| 27.04 | Projection to latent space | -  | - | - |
 | 11.05 | Bayesian agents, multi-agents and reinforcement | -  | - | - |
 
 

@@ -63,7 +63,7 @@
 * GAN и MCMC [(статья)](https://proceedings.neurips.cc/paper/2020/file/90525e70b7842930586545c6f1c9310c-Paper.pdf) [Докладчик: Сафиуллин]
 
 ## Model ensembles, Mixture of experts
-* Neural-Tangent-Kernel-ансамбли [(статья)](https://arxiv.org/pdf/2202.12297.pdf) [Докладчик: TODO]
+* Neural-Tangent-Kernel-ансамбли [(статья)](https://arxiv.org/pdf/2202.12297.pdf) [Докладчик: Шокоров]
 
 ## Distilling and privileged learning
 * Дистилляция без выборки с генерацией данных учителем [(статья)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf) [Докладчик: TODO]

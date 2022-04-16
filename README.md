@@ -2,7 +2,7 @@
 
 
 
-[Перекрестные доклады](cross_talks/task5.md) 
+[Задание 5: перекрестные доклады](cross_talks/task5.md) 
 
 [Ссылка на встречи](https://m1p.org/go_zoom2)
 

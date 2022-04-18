@@ -66,4 +66,7 @@
 * Neural-Tangent-Kernel-ансамбли [(статья)](https://arxiv.org/pdf/2202.12297.pdf) [Докладчик: Шокоров]
 
 ## Distilling and privileged learning
-* Дистилляция без выборки с генерацией данных учителем [(статья)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf) [Докладчик: TODO]
+* ~~Дистилляция без выборки с генерацией данных учителем [(статья)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf) [Докладчик: TODO]~~
+
+## Transfer learning
+* Multi-View CCA [(статья)](https://arxiv.org/pdf/1610.03454.pdf) [Докладчик: TODO]

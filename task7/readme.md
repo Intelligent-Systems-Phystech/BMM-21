@@ -31,7 +31,7 @@ Loss = lambda * Dist_1 + (1-lambda) * Dist_2
 *   температура дистилляции
 *   lambda (важность слагаемого дистилляции)
 
-
+Ссылки:
 * [Дистилляция](https://arxiv.org/abs/1503.02531)
 * [MNIST-M](https://paperswithcode.com/dataset/mnist-m)
 

@@ -36,3 +36,11 @@
 ## Андрей Филатов, [NAS с наращиванием нейросети](Filatov_MCMC.pdf) 
 
 ## Андрей Филатов, [Firefly MCMC: работа MCMC с батчами](Filatov_NAS.pdf) 
+
+## Ольга Гребенькова, [Гауссовские процессы как аппроксимация нейросетей для исследования устойчивости моделей ](Grebenkova_Gauss.pdf)
+### Доп материал:
+* https://arxiv.org/abs/1402.5836
+
+## Ольга Гребенькова, [Multi-View CCA](GrebenkovaMultiView.pdf)
+### Доп материал:
+* https://arxiv.org/pdf/1610.03454.pdf

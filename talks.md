@@ -70,3 +70,7 @@
 
 ## Transfer learning
 * Multi-View CCA [(статья)](https://arxiv.org/pdf/1610.03454.pdf) [Докладчик: Гребенькова]
+
+## Multi-Task learning
+* Lottery ticket для многозадачности [(статья)](https://arxiv.org/abs/2006.14769) [Докладчик: TODO]
+* Мета-оптимизация для многозадачности [(статья)](https://arxiv.org/pdf/1703.03400.pdf) [Докладчик: TODO]

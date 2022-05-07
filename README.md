@@ -9,7 +9,7 @@
 
 [Оценки за курс](eval.md)
 
-[Анкета: дедлайн 4 мая, 23.59](https://docs.google.com/forms/d/e/1FAIpQLScPuaE9S5tWmqmE4S-wg-uXCm4E8vp0yhJ2k3QfBCvhDp62Zg/viewform?usp=sf_link)
+[Анкета: дедлайн 11 мая, 23.59](https://docs.google.com/forms/d/e/1FAIpQLSeDaRvkdy97cqhVeJOz9WRsBKEdKKnJVPgFb8BkArziK7Lhzg/viewform?usp=sf_link)
 
 [Список докладов](talks.md)
 

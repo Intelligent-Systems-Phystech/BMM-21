@@ -30,7 +30,7 @@
 | 6.04 | [Distilling and privileged learning](slides/slides18_dist.pdf) | - |  [Запись](https://www.youtube.com/watch?v=F1yWOyMJnF4) |
 | 13.04 | [Transfer learning, Domain adaptation](slides/slides19_transfer.pdf) | -  | [Запись](https://www.youtube.com/watch?v=JuaUTU14EK4) | - |
 | 27.04| [Multitask learning](slides/mtask.pdf) | -  | [Запись](https://www.youtube.com/watch?v=GAr7cU21s8U&t=1s) | [Задание 7](task7) |
-| 4.05 | Projection to latent space | -  | - | - |
+| 4.05 | [Projection to latent space](slides/slides_22_latent.pdf) | -  | [Запись](https://www.youtube.com/watch?v=DwO2CpwtHFw) | - |
 | 4.05 | Bayesian agents, multi-agents and reinforcement | -  | - | - |
 
 
